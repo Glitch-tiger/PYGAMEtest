@@ -1,8 +1,8 @@
 # settings.py
 
 # Ширина и высота экрана
-SCREEN_WIDTH = 400
-SCREEN_HEIGHT = 300
+SCREEN_WIDTH = 800
+SCREEN_HEIGHT = 800
 
 # Основные цвета
 WHITE = (255, 255, 255)  # Белый
